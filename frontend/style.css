@@ -377,7 +377,6 @@ h2.title {
   padding-bottom: 1rem;
 }
 
-
 #end {
   padding-top: 2rem;
   font-size: 1.25rem;
@@ -388,14 +387,6 @@ h2.title {
 hr {
   color: #4b4b4b;
 }
-.chat-bot {
-  position: fixed;
-  right: 20px;
-  bottom: 200px;
-  border: none;
-  z-index: 1000; 
-}
-
 
 @media (max-width:768px) {
 
